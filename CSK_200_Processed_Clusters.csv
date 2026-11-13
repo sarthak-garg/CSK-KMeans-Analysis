@@ -1,0 +1,201 @@
+season,opponent,csk_runs,opponent_runs,csk_wickets,opponent_wickets,csk_sixes,cluster
+2008,Mumbai Indians,182.0,140.0,7.0,8.0,2.0,0
+2008,Royal Challengers Bengaluru,116.0,188.0,6.0,4.0,3.0,0
+2008,Kolkata Knight Riders,224.0,169.0,4.0,9.0,12.0,1
+2008,Rajasthan Royals,156.0,174.0,3.0,8.0,8.0,1
+2008,Delhi Capitals,141.0,169.0,9.0,4.0,5.0,0
+2008,Punjab Kings,197.0,163.0,5.0,8.0,12.0,1
+2008,Sunrisers Hyderabad,222.0,155.0,4.0,4.0,10.0,1
+2008,Gujarat Titans,170.0,182.0,5.0,2.0,8.0,0
+2008,Lucknow Super Giants,221.0,163.0,3.0,7.0,11.0,1
+2008,Mumbai Indians,180.0,186.0,5.0,7.0,8.0,1
+2008,Royal Challengers Bengaluru,151.0,200.0,4.0,3.0,5.0,0
+2009,Kolkata Knight Riders,191.0,143.0,7.0,5.0,14.0,1
+2009,Rajasthan Royals,138.0,157.0,5.0,7.0,10.0,1
+2009,Delhi Capitals,162.0,177.0,6.0,6.0,5.0,0
+2009,Punjab Kings,177.0,123.0,2.0,8.0,11.0,1
+2009,Sunrisers Hyderabad,190.0,155.0,5.0,7.0,7.0,1
+2009,Gujarat Titans,155.0,169.0,6.0,3.0,2.0,0
+2009,Lucknow Super Giants,216.0,139.0,4.0,8.0,12.0,1
+2009,Mumbai Indians,190.0,163.0,4.0,6.0,3.0,0
+2009,Royal Challengers Bengaluru,113.0,153.0,5.0,5.0,3.0,0
+2009,Kolkata Knight Riders,197.0,181.0,3.0,8.0,8.0,1
+2009,Rajasthan Royals,170.0,142.0,4.0,8.0,3.0,1
+2010,Delhi Capitals,155.0,191.0,6.0,1.0,6.0,0
+2010,Punjab Kings,193.0,156.0,4.0,10.0,10.0,1
+2010,Sunrisers Hyderabad,152.0,169.0,5.0,9.0,11.0,1
+2010,Gujarat Titans,153.0,220.0,5.0,5.5,3.0,0
+2010,Lucknow Super Giants,196.0,117.0,5.0,7.0,7.0,1
+2010,Mumbai Indians,153.0,173.0,7.0,10.0,17.0,1
+2010,Royal Challengers Bengaluru,154.0,161.0,3.0,5.0,4.0,0
+2010,Kolkata Knight Riders,196.0,135.0,4.0,9.0,11.0,1
+2010,Rajasthan Royals,172.0,140.0,2.0,5.0,8.0,1
+2010,Delhi Capitals,184.0,188.0,9.0,3.0,2.0,0
+2010,Punjab Kings,184.0,133.0,8.0,5.0,14.0,1
+2011,Sunrisers Hyderabad,155.0,187.0,6.0,6.0,8.0,0
+2011,Gujarat Titans,131.0,196.0,6.0,2.0,2.0,0
+2011,Lucknow Super Giants,209.0,188.0,4.0,7.0,12.0,1
+2011,Mumbai Indians,204.0,170.0,4.0,8.0,9.0,1
+2011,Royal Challengers Bengaluru,175.0,189.0,5.0,1.0,11.0,0
+2011,Kolkata Knight Riders,243.0,146.0,3.0,10.0,8.0,1
+2011,Rajasthan Royals,155.0,180.0,4.0,6.0,8.0,0
+2011,Delhi Capitals,152.0,219.0,7.0,5.0,0.0,0
+2011,Punjab Kings,204.0,130.0,2.0,5.0,10.0,1
+2011,Sunrisers Hyderabad,195.0,133.0,5.0,5.0,7.0,1
+2011,Gujarat Titans,167.0,198.0,10.0,4.0,4.0,0
+2012,Lucknow Super Giants,200.0,156.0,4.0,5.0,11.0,1
+2012,Mumbai Indians,180.0,225.0,9.0,4.0,7.0,0
+2012,Royal Challengers Bengaluru,113.0,171.0,8.0,6.0,4.0,0
+2012,Kolkata Knight Riders,191.0,99.625,4.0,5.0,9.0,1
+2012,Rajasthan Royals,156.0,163.0,1.0,3.0,14.0,1
+2012,Delhi Capitals,117.0,159.0,10.0,10.0,2.0,0
+2012,Punjab Kings,197.0,158.0,7.0,5.0,10.0,1
+2012,Sunrisers Hyderabad,192.0,175.0,4.0,6.0,4.0,0
+2012,Gujarat Titans,140.0,179.0,7.0,3.0,7.0,0
+2012,Lucknow Super Giants,227.0,154.0,5.0,7.0,11.0,1
+2012,Mumbai Indians,159.0,173.0,5.0,10.0,13.0,1
+2013,Royal Challengers Bengaluru,153.0,167.0,5.0,6.0,7.0,0
+2013,Kolkata Knight Riders,216.0,108.0,6.0,8.0,8.0,1
+2013,Rajasthan Royals,165.0,171.0,5.0,5.0,8.0,0
+2013,Delhi Capitals,139.0,189.0,10.0,1.0,5.0,0
+2013,Punjab Kings,209.0,157.0,3.0,3.0,12.0,1
+2013,Sunrisers Hyderabad,213.0,128.0,7.0,5.0,8.0,1
+2013,Gujarat Titans,122.0,177.0,10.0,5.0,11.0,0
+2013,Lucknow Super Giants,231.0,161.0,7.0,8.0,13.0,1
+2013,Mumbai Indians,168.0,167.0,4.0,8.0,4.0,0
+2013,Royal Challengers Bengaluru,162.0,180.0,9.0,6.0,8.0,0
+2013,Kolkata Knight Riders,221.0,112.0,4.0,5.0,9.0,1
+2014,Rajasthan Royals,208.0,180.0,4.0,4.0,8.0,1
+2014,Delhi Capitals,118.0,169.0,8.0,6.0,8.0,0
+2014,Punjab Kings,155.0,167.0,4.0,8.0,16.0,1
+2014,Sunrisers Hyderabad,130.0,151.0,6.0,3.0,12.0,0
+2014,Gujarat Titans,153.0,205.0,6.0,6.0,9.0,0
+2014,Lucknow Super Giants,210.0,156.0,5.0,5.0,11.0,1
+2014,Mumbai Indians,172.0,174.0,7.0,4.0,8.0,0
+2014,Royal Challengers Bengaluru,178.0,167.0,5.0,4.0,9.0,0
+2014,Kolkata Knight Riders,205.0,182.0,6.0,9.0,13.0,1
+2014,Rajasthan Royals,226.0,160.0,1.0,9.0,7.0,1
+2014,Delhi Capitals,147.0,216.0,4.0,1.0,1.0,0
+2015,Punjab Kings,188.0,161.0,5.0,8.0,7.0,1
+2015,Sunrisers Hyderabad,124.0,166.0,4.0,7.0,10.0,0
+2015,Gujarat Titans,148.0,203.0,7.0,5.0,4.0,0
+2015,Lucknow Super Giants,201.0,155.0,6.0,6.0,13.0,1
+2015,Mumbai Indians,169.0,162.0,7.0,2.0,4.0,0
+2015,Royal Challengers Bengaluru,112.0,129.0,6.0,5.0,5.0,0
+2015,Kolkata Knight Riders,209.0,176.0,7.0,7.0,15.0,1
+2015,Rajasthan Royals,177.0,145.0,4.0,3.0,5.0,0
+2015,Delhi Capitals,137.0,204.0,10.0,1.0,7.0,0
+2015,Punjab Kings,182.0,161.0,4.0,3.0,14.0,1
+2015,Sunrisers Hyderabad,162.0,152.0,3.0,5.0,9.0,1
+2016,Gujarat Titans,141.0,193.0,5.0,7.0,5.0,0
+2016,Lucknow Super Giants,173.0,176.0,3.0,9.0,12.0,1
+2016,Mumbai Indians,172.0,173.0,9.0,10.0,8.0,0
+2016,Royal Challengers Bengaluru,149.0,211.0,5.0,5.0,6.0,0
+2016,Kolkata Knight Riders,212.0,130.0,5.0,3.0,8.0,1
+2016,Rajasthan Royals,165.0,158.0,9.0,8.0,5.0,0
+2016,Delhi Capitals,153.0,175.0,6.0,4.0,8.0,0
+2016,Punjab Kings,198.0,176.0,2.0,7.0,18.125,1
+2016,Sunrisers Hyderabad,180.0,199.0,5.0,7.0,8.0,0
+2016,Gujarat Titans,141.0,166.0,8.0,2.0,8.0,0
+2016,Lucknow Super Giants,229.0,159.0,3.0,8.0,10.0,1
+2017,Mumbai Indians,196.0,121.0,4.0,2.0,4.0,1
+2017,Royal Challengers Bengaluru,175.0,206.0,6.0,1.0,0.0,0
+2017,Kolkata Knight Riders,193.0,208.0,5.0,6.0,12.0,1
+2017,Rajasthan Royals,141.0,158.0,5.0,6.0,10.0,0
+2017,Delhi Capitals,153.0,201.0,6.0,6.0,11.0,0
+2017,Punjab Kings,184.0,129.0,7.0,7.0,15.0,1
+2017,Sunrisers Hyderabad,165.0,200.0,5.0,7.0,13.0,1
+2017,Gujarat Titans,137.0,162.0,6.0,5.0,1.0,0
+2017,Lucknow Super Giants,219.0,137.0,6.0,2.0,9.0,1
+2017,Mumbai Indians,138.0,145.0,5.0,6.0,7.0,0
+2017,Royal Challengers Bengaluru,141.0,190.0,5.0,5.0,8.0,0
+2018,Kolkata Knight Riders,213.0,163.0,5.0,10.0,11.0,1
+2018,Rajasthan Royals,168.0,147.0,3.0,4.0,5.0,0
+2018,Delhi Capitals,143.0,193.0,7.0,2.0,9.0,0
+2018,Punjab Kings,221.0,146.0,3.0,8.0,12.0,1
+2018,Sunrisers Hyderabad,143.0,163.0,6.0,4.0,9.0,0
+2018,Gujarat Titans,113.0,217.0,9.0,3.0,7.0,0
+2018,Lucknow Super Giants,152.0,122.0,3.0,5.0,13.0,1
+2018,Mumbai Indians,219.0,137.0,3.0,6.0,13.0,1
+2018,Royal Challengers Bengaluru,118.0,191.0,10.0,1.0,2.0,0
+2018,Kolkata Knight Riders,196.0,138.0,6.0,7.0,6.0,1
+2018,Rajasthan Royals,186.0,151.0,8.0,5.0,6.0,0
+2019,Delhi Capitals,157.0,203.0,8.0,1.0,8.0,0
+2019,Punjab Kings,182.0,156.0,1.0,8.0,9.0,1
+2019,Sunrisers Hyderabad,147.0,182.0,5.0,5.0,12.0,0
+2019,Gujarat Titans,135.0,186.0,8.0,3.0,7.0,0
+2019,Lucknow Super Giants,193.0,140.0,7.0,5.0,4.0,0
+2019,Mumbai Indians,210.0,226.0,4.0,2.0,7.0,0
+2019,Royal Challengers Bengaluru,139.0,180.0,5.0,5.0,8.0,0
+2019,Kolkata Knight Riders,172.0,167.0,8.0,7.0,10.0,0
+2019,Rajasthan Royals,175.0,180.0,2.0,6.0,7.0,1
+2019,Delhi Capitals,186.0,181.0,10.0,2.0,8.0,0
+2019,Punjab Kings,212.0,129.0,4.0,9.0,10.0,1
+2020,Sunrisers Hyderabad,138.0,165.0,3.0,5.0,8.0,0
+2020,Gujarat Titans,107.0,146.0,8.0,3.0,8.0,0
+2020,Lucknow Super Giants,222.0,157.0,3.0,4.0,14.0,1
+2020,Mumbai Indians,183.0,222.0,6.0,7.0,7.0,0
+2020,Royal Challengers Bengaluru,163.0,200.0,10.0,3.0,5.0,0
+2020,Kolkata Knight Riders,194.0,169.0,7.0,6.0,10.0,1
+2020,Rajasthan Royals,182.0,159.0,7.0,1.0,6.0,0
+2020,Delhi Capitals,128.0,167.0,5.0,2.0,5.0,0
+2020,Punjab Kings,229.0,144.0,2.0,7.0,14.0,1
+2020,Sunrisers Hyderabad,154.0,143.0,6.0,6.0,10.0,1
+2020,Gujarat Titans,145.0,202.0,5.0,4.0,5.0,0
+2021,Lucknow Super Giants,178.0,112.0,5.0,6.0,8.0,1
+2021,Mumbai Indians,173.0,192.0,1.0,3.0,5.0,0
+2021,Royal Challengers Bengaluru,177.0,192.0,9.0,2.0,3.0,0
+2021,Kolkata Knight Riders,215.0,151.0,5.0,7.0,12.0,1
+2021,Rajasthan Royals,178.0,184.0,7.0,3.0,1.0,0
+2021,Delhi Capitals,167.0,214.0,5.0,1.0,6.0,0
+2021,Punjab Kings,225.0,193.0,5.0,6.0,8.0,1
+2021,Sunrisers Hyderabad,175.0,158.0,3.0,10.0,13.0,1
+2021,Gujarat Titans,170.0,163.0,9.0,5.0,7.0,0
+2021,Lucknow Super Giants,232.0,165.0,5.0,8.0,12.0,1
+2021,Mumbai Indians,136.0,167.0,4.0,3.0,13.0,0
+2022,Royal Challengers Bengaluru,183.0,218.0,8.0,7.0,6.0,0
+2022,Kolkata Knight Riders,209.0,124.0,5.0,7.0,7.0,1
+2022,Rajasthan Royals,174.0,163.0,9.0,8.0,8.0,0
+2022,Delhi Capitals,150.0,186.0,7.0,2.0,6.0,0
+2022,Punjab Kings,189.0,120.0,5.0,8.0,6.0,1
+2022,Sunrisers Hyderabad,172.0,189.0,7.0,8.0,8.0,0
+2022,Gujarat Titans,126.0,159.0,8.0,5.0,10.0,0
+2022,Lucknow Super Giants,229.0,147.0,2.0,6.0,12.0,1
+2022,Mumbai Indians,171.0,151.0,6.0,5.0,6.0,0
+2022,Royal Challengers Bengaluru,152.0,175.0,7.0,5.0,3.0,0
+2022,Kolkata Knight Riders,194.0,185.0,2.0,3.0,5.0,0
+2023,Rajasthan Royals,176.0,166.0,5.0,5.5,0.0,0
+2023,Delhi Capitals,154.0,222.0,5.0,3.0,4.0,0
+2023,Punjab Kings,185.0,142.0,7.0,10.0,10.0,1
+2023,Sunrisers Hyderabad,217.0,166.0,9.0,6.0,8.0,1
+2023,Gujarat Titans,153.0,236.625,9.0,3.0,9.0,0
+2023,Lucknow Super Giants,197.0,138.0,6.0,7.0,12.0,1
+2023,Mumbai Indians,175.0,173.0,6.0,2.0,10.0,0
+2023,Royal Challengers Bengaluru,123.0,150.0,7.0,4.0,4.0,0
+2023,Kolkata Knight Riders,223.0,118.0,3.0,6.0,11.0,1
+2023,Rajasthan Royals,181.0,141.0,6.0,6.0,2.0,0
+2023,Delhi Capitals,102.0,185.0,7.0,4.0,6.0,0
+2024,Punjab Kings,210.0,173.0,2.0,5.0,8.0,1
+2024,Sunrisers Hyderabad,181.0,195.0,4.0,1.0,3.0,0
+2024,Gujarat Titans,127.0,172.0,6.0,4.0,5.0,0
+2024,Lucknow Super Giants,228.0,134.0,2.0,8.0,6.0,1
+2024,Mumbai Indians,184.0,167.0,5.0,9.0,6.0,1
+2024,Royal Challengers Bengaluru,190.0,180.0,4.0,4.0,3.0,0
+2024,Kolkata Knight Riders,188.0,160.0,5.0,6.0,14.0,1
+2024,Rajasthan Royals,200.0,199.0,6.0,9.0,2.0,0
+2024,Delhi Capitals,138.0,164.0,7.0,3.0,6.0,0
+2024,Punjab Kings,246.0,146.0,5.0,7.0,11.0,1
+2024,Sunrisers Hyderabad,175.0,176.0,7.0,9.0,9.0,1
+2025,Gujarat Titans,158.0,157.0,7.0,6.0,9.0,0
+2025,Lucknow Super Giants,210.0,171.0,5.0,9.0,12.0,1
+2025,Mumbai Indians,167.0,173.0,1.0,7.0,0.0,0
+2025,Royal Challengers Bengaluru,107.0,196.0,8.0,2.0,4.0,0
+2025,Kolkata Knight Riders,235.0,138.0,8.0,7.0,12.0,1
+2025,Rajasthan Royals,211.0,168.0,3.0,6.0,8.0,1
+2025,Delhi Capitals,115.0,179.0,6.0,6.0,6.0,0
+2025,Punjab Kings,199.0,147.0,4.0,8.0,8.0,1
+2025,Sunrisers Hyderabad,152.0,192.0,4.0,3.0,9.0,0
+2025,Gujarat Titans,155.0,148.0,7.0,5.0,7.0,0
+2025,Lucknow Super Giants,219.0,116.0,5.0,6.0,10.0,1
+2026,Mumbai Indians,194.0,201.0,9.0,9.0,8.0,0
+2026,Royal Challengers Bengaluru,153.0,203.0,7.0,4.0,8.0,0
